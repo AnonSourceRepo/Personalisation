@@ -1,2 +1,2 @@
 # Personalisation-in-LLM
-This is the implemental code for LaMP and some preliminary study.
+This is the implemental code for Personalisation of LLM.
