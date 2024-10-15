@@ -9,7 +9,7 @@ This repository provides the code for our paper titled **Understanding the Role 
 
 
 <p align="center">
-  <img src="asset/firstfigure.png" width="400"></a>
+  <img src="firstfigure.png" width="400"></a>
   <br />
   <em>Our key findings: (a) input-relevant information is less critical to the effectiveness of user profile than personalization, and it only contributes when built on top of personalization (<ins>The Top Figure</ins>); (b) The impact of user responses on personalization is greater than that of previous input and their mapping between users' previous input and response (<ins>The Middle Figure</ins>); (c) The user profiles in the different positions of the context contribute differently to the personalization, where profiles positioned closer to the beginning contribute more (<ins>The Bottom Figure</ins>).</em>
 </p>
